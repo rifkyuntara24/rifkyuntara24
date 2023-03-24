@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rifky untara 
-- 👀 I’m interested in Data Analyst and Also Full Stack Web Developer
+- 👀 I’m interested in Artificial Intelegent, Machine Learning and Data Science
 - 🌱 I’m currently learning JavaScript, Pyhton and currently I'm studyng at collage my major is Information System
 - 💞️ I’m looking to collaborate on Web Developer 
 - 📫 How to reach me 
