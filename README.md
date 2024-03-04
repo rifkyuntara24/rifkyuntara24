@@ -46,6 +46,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifkyuntara24&show_icons=true&locale=en&theme=dark" alt="rifkyuntara24" /></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifkyuntara24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifkyuntara24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
