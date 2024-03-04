@@ -42,3 +42,7 @@
 ###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifkyuntara24&show_icons=true&locale=en&layout=compact" alt="rifkyuntara24" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifkyuntara24&show_icons=true&locale=en" alt="rifkyuntara24" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifkyuntara24&" alt="rifkyuntara24" /></p>
