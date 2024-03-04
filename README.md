@@ -40,3 +40,5 @@
 <p align="left">Stats:</p>
 
 ###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifkyuntara24&show_icons=true&locale=en&layout=compact" alt="rifkyuntara24" /></p>
